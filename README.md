@@ -55,8 +55,6 @@ c_mail.execute("CREATE TABLE mainlogin (login text)")
 The program should be working now. 
 
 Note: Colour scheme may vary in  MacOS 
-![image](https://user-images.githubusercontent.com/67187480/144757705-6271b6b7-f7df-4bd1-8e20-0e8b8ef2c7f1.png)
-![image](https://user-images.githubusercontent.com/67187480/144757717-fc4c3a48-6b21-454f-8cff-eadb40a8c12e.png)
 ![image](https://user-images.githubusercontent.com/67187480/144757723-01b69ac9-1a4b-42af-a63e-6fba47545501.png)
 ![image](https://user-images.githubusercontent.com/67187480/144757765-4b257923-ba40-4e69-ad40-d4839d2a45a3.png)
 ![image](https://user-images.githubusercontent.com/67187480/144757776-8a901e09-d45e-44c0-aa2e-aa1d4a024fd1.png)
