@@ -5,7 +5,7 @@ With our ever increasing dependence on the internet and various threats that are
 
 
 
-INSTALLATION PROCEDURE
+## INSTALLATION PROCEDURE
 This program doesn’t require any external libraries apart from sql_lite3
  		Command to install the same is : 
 >> Open Command Prompt 
@@ -68,4 +68,6 @@ Note: Colour scheme may vary in  MacOS
 
 
 find me here : [Utkarsh](https://www.linkedin.com/in/utkarshkumar911/)
+
+# Dont forget to star this repo!
 
