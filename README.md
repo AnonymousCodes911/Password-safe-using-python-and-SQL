@@ -5,7 +5,7 @@ With our ever increasing dependence on the internet, various threats that are co
 
 
 
-## INSTALLATION PROCEDURE
+## INSTALLATION GUIDE
 This program doesn’t require any external libraries apart from sql_lite3
  		Command to install the same is : 
 >> Open Command Prompt 
