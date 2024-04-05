@@ -52,7 +52,7 @@ Line 27
 c_mail.execute("CREATE TABLE mainlogin (login text)")
 '''
 
-The program should be working now. 
+The script should be working now. 
 
 Note: Colour scheme may vary in  MacOS 
 ![image](https://user-images.githubusercontent.com/67187480/144757723-01b69ac9-1a4b-42af-a63e-6fba47545501.png)
