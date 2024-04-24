@@ -65,9 +65,3 @@ Note: Colour scheme may vary in  MacOS
 
 ![image](https://user-images.githubusercontent.com/67187480/144757815-ee133b8d-e39a-423e-b941-5b65f49c8ffb.png)
 
-
-
-find me here : [Utkarsh](https://www.linkedin.com/in/utkarshkumar911/)
-
-# Dont forget to star this repo!
-
