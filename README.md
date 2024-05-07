@@ -1,4 +1,4 @@
-# Password-safe-using-Python-and-SQL
+# Password-Safe-Using-Python-and-SQL
 With our ever increasing demand and dependence on the internet, various threats that are convoluted with it , We need to be secured and have safer access to the Internet!, which requires us to put more and more complex and unique passwords which makes it difficult to remember all of them with accuracy and hence comes a need of the password management system that does all that for you, saving the passwords at your local system away from all the internet thieves , So to play our part as a responsible student , we saw a problem and tried rectifying it with our novel idea “CredSafe” 
 
 
